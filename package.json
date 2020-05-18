@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://ibrahim6a.github.io/first-react-app",
+  "homepage": "https://ibrahim6a.github.io/counters-react-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
